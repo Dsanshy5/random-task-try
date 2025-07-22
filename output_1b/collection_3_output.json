@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": {
+            "task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+        },
+        "processing_timestamp": "2025-07-22T16:58:05.499606"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Introduction",
+            "importance_rank": 1,
+            "page_number": 3
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "\uf0b7   1 pound ground beef  \uf0b7   1 small onion, diced  \uf0b7   2 cloves garlic, minced  \uf0b7   1 carrot, grated  \uf0b7   1 celery stalk, diced  \uf0b7   1 can (28 ounces) crushed tomatoes  \uf0b7   1/4 cup tomato paste  \uf0b7   1/2 cup red wine (optional)  \uf0b7   1 teaspoon dried oregano  \uf0b7   1 teaspoon dried basil  \uf0b7   Salt and pepper to taste  \uf0b7   Spaghetti for serving  \uf0b7   Grated Parmesan cheese for garnish  Instructions:",
+            "page_number": 3
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "\u2022   1 whole wheat tortilla  \u2022   4 slices turkey breast  \u2022   1/4 cup hummus  \u2022   1/4 cup shredded carrots  \u2022   1/4 cup baby spinach  Instructions:",
+            "page_number": 15
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "\u2022   1 whole wheat tortilla  \u2022   1 cup cooked chicken breast, sliced  \u2022   1 cup romaine lettuce, chopped  \u2022   2 tablespoons Caesar dressing  \u2022   2 tablespoons grated Parmesan cheese  \u2022   Optional: croutons for extra crunch  Instructions:",
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o   Slice tomatoes and mozzarella.  o   Arrange on a plate, alternating slices.  o   Sprinkle with chopped basil, olive oil, balsamic glaze, and salt.  o   Serve immediately.    Carrot Salad",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o   Arrange meats, cheeses, olives, and vegetables on a platter.  o   Serve with breadsticks.    Arancini",
+            "page_number": 3
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "\u2022   In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.  \u2022   Season with salt and pepper.  \u2022   Serve immediately.",
+            "page_number": 16
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "\uf0b7   Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings  Instructions:",
+            "page_number": 5
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "\u2022   1 whole wheat tortilla  \u2022   4 slices turkey breast  \u2022   2 tablespoons cranberry sauce  \u2022   1/2 cup baby spinach  \u2022   1/4 cup shredded carrots  Instructions:",
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o   Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped",
+            "page_number": 13
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "\u2022   1 large flour tortilla  \u2022   2 large eggs  \u2022   1/4 cup shredded cheese  \u2022   1/4 cup cooked sausage or bacon  \u2022   1/4 cup diced bell pepper  \u2022   Salsa for serving  Instructions:",
+            "page_number": 5
+        }
+    ]
+}
